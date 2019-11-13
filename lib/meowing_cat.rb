@@ -1,3 +1,5 @@
 class Cat 
-atte_accessor: 
-end 
+atte_accessor : name 
+end
+
+
